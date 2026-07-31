@@ -28,7 +28,7 @@
 
 ---
 
-**Database Schema Highlights**
+## Database Schema Highlights
 
    - Users: Stores authentication details and assigned roles (admin, staff).
 
@@ -40,11 +40,15 @@
 
    - Stock_History: Audit table logging every inward/outward item movement.
 
-**Default Login Credentials:**
+---
+
+## Default Login Credentials:
 
    - The SQL setup script creates two default user accounts:
 
         Role  |  Username  |  Password
 
         Admin |  admin     |  admin123    
-        Staff |  staff     |  staff123
+        Staff |   staff    |  staff123
+
+  ---  
