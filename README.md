@@ -49,6 +49,6 @@
         Role  |  Username  |  Password
 
         Admin |  admin     |  admin123    
-        Staff |   staff    |  staff123
+        Staff |   staff    |   staff123
 
   ---  
